@@ -1,4 +1,4 @@
-# LoneWolf 汉化补丁
+# Joe Dever's Lone Wolf HD Remastered Windows 汉化补丁
 
 《Joe Dever's Lone Wolf HD Remastered》（Steam AppID 279440）个人简体中文补丁。
 
