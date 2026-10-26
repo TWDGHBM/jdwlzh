@@ -1,6 +1,23 @@
+LoneWolf 汉化补丁 —— 许可证与适用范围
+====================================
+
+本仓库包含两类内容，授权范围不同：
+
+1) 安装 / 卸载脚本（scripts/ 目录下的 .ps1 与 .bat）
+   采用下方 MIT 许可证。
+
+2) 补丁数据与游戏衍生内容（resources.assets 差分文件、mainData、level0、
+   Assembly-CSharp.dll 及其差分）
+   不属于 MIT 授权范围。其原始版权归游戏权利人（Forge Reply / Atlantyca）所有。
+   本仓库仅以个人学习交流为目的提供，请支持正版，不得用于商业用途。
+
+如权利人认为本仓库内容不妥，请联系删除，将立即处理。
+
+--------------------------------------------------------------------------
+
 MIT License
 
-Copyright (c) 2026 TWDGHBM
+Copyright (c) 2026 LoneWolf 汉化补丁 contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

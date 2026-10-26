@@ -1,0 +1,17 @@
+﻿# LoneWolf 汉化补丁  差分包校验单
+# 格式: <sha256>  <状态>|<文件名>
+#   original = 英文原版基准（差分源必须匹配这一组）
+#   patched  = 安装后应达到的状态
+#   delta    = 差分包文件自身
+
+91457bf6df3dbcf0716de6153658d2f2926da67dbb10559b64ed04180a7cb20b  original|resources.assets
+5411bae532afde7ea1063d9f7372add22fd391adcd60399159aee14c81d5c035  original|mainData
+80e45acbe71c9039d417849ebab0723076b185dd78f33c7d92fd4cd4df9b7482  original|level0
+6b800a7982f8ee0a3eeda87c93f3b424a5e9a1423e0ea92fa94b5447d86baa76  original|Assembly-CSharp.dll
+
+a69d405b45210fb015d8849ac2b56936e02b38e5fe4b9fd2dc5fdb30f162f8d8  patched|resources.assets
+a5b6ce6bf629a608a00de4ed5bcffa9c791409a30ef08941ef3462b2ff570864  patched|mainData
+73e110aaa3d73dcacdc33dc371a6049ec00bcfbe58ee11332dc8bacd4bc6611f  patched|level0
+1f6864b20d662454c3cdf7c298ff1e4f469ebfe8f121831d147c4ae62cd3c010  patched|Assembly-CSharp.dll
+
+9331e4a205fd1bf20983b3805eb6eb289e78e7b779625e4eef1646dbef52ca64  delta|resources.assets.lwd
